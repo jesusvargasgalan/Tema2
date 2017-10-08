@@ -22,7 +22,7 @@ public class Ejercicio01{
     System.out.println("Y+X es igual a "+(x + y));
     System.out.println("Y-X es igual a "+(x - y));
     System.out.println("Y*X es igual a "+(double)(x * y));
-		System.out.println("Y/X es igual a "+(float)(x / y));
+    System.out.println("Y/X es igual a "+(float)(x / y));
 	}
 }
 
