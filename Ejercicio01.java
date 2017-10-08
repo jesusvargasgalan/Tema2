@@ -10,8 +10,8 @@
 
 
 public class Ejercicio01{
-	
-	public static void main (String args[]) {
+
+  public static void main (String args[]) {
     
     
     int x=144;
@@ -23,6 +23,6 @@ public class Ejercicio01{
     System.out.println("Y-X es igual a "+(x - y));
     System.out.println("Y*X es igual a "+(double)(x * y));
     System.out.println("Y/X es igual a "+(float)(x / y));
-	}
+  }
 }
 
